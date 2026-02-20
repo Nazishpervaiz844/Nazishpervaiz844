@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazishthenxuberant&label=Profile%20views&color=0e75b6&style=flat" alt="nazishthenxuberant" /> </p>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently a **Data Analyst**
 
 - 📫 How to reach me **nazishpervaiz844@gmail.com**
 
